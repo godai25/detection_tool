@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="Shift-JIS" standalone="yes"?>
+<root>
+	<CheckList>
+		<ListName>C:\work</ListName>
+		<folder>
+			<name>140917</name>
+			<date>2014/09/17 10:31:40</date>
+		</folder>
+		<folder>
+			<name>150119</name>
+			<date>2015/01/19 10:38:07</date>
+		</folder>
+		<folder>
+			<name>150305</name>
+			<date>2015/03/05 18:06:07</date>
+		</folder>
+		<folder>
+			<name>150428</name>
+			<date>2015/04/28 15:20:17</date>
+		</folder>
+		<folder>
+			<name>150430</name>
+			<date>2015/04/30 11:38:58</date>
+		</folder>
+		<folder>
+			<name>160513</name>
+			<date>2016/05/13 9:50:29</date>
+		</folder>
+		<folder>
+			<name>20140814_00_大貨_再審査結果クリア</name>
+			<date>2014/10/17 9:37:00</date>
+		</folder>
+		<folder>
+			<name>20141107_1107</name>
+			<date>2014/11/07 13:48:17</date>
+		</folder>
+		<folder>
+			<name>20141217_1335</name>
+			<date>2014/12/17 13:35:58</date>
+		</folder>
+		<folder>
+			<name>20141218_1349</name>
+			<date>2014/12/18 14:27:21</date>
+		</folder>
+		<folder>
+			<name>20151214</name>
+			<date>2015/12/14 9:29:22</date>
+		</folder>
+		<folder>
+			<name>20160711_セコムデータ</name>
+			<date>2016/07/09 18:33:05</date>
+		</folder>
+		<folder>
+			<name>drivers</name>
+			<date>2015/11/13 14:07:44</date>
+		</folder>
+		<folder>
+			<name>haya002</name>
+			<date>2015/07/24 10:30:32</date>
+		</folder>
+		<folder>
+			<name>uninst</name>
+			<date>2014/09/17 10:36:18</date>
+		</folder>
+		<folder>
+			<name>Ver7_1_1_パッチ11_作成中</name>
+			<date>2014/09/17 10:43:23</date>
+		</folder>
+		<folder>
+			<name>Ver7_1_2</name>
+			<date>2014/11/28 15:08:26</date>
+		</folder>
+		<folder>
+			<name>Ver7_1_6（11g）</name>
+			<date>2016/03/09 12:01:41</date>
+		</folder>
+		<folder>
+			<name>パスワード一覧</name>
+			<date>2016/04/19 10:21:06</date>
+		</folder>
+		<file>
+			<name>test01.bat</name>
+			<sha1>[null]</sha1>
+			<date>2016/06/17 17:08:26</date>
+		</file>
+		<file>
+			<name>v7135テスト.TXT</name>
+			<sha1>[null]</sha1>
+			<date>2015/08/10 16:53:08</date>
+		</file>
+		<ListNameEnd>C:\work</ListNameEnd>
+	</CheckList>
+</root>
